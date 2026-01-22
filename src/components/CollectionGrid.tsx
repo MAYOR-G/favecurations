@@ -13,7 +13,7 @@ const categories = [
     },
     {
         title: "Valentine & Love",
-        description: "Romantic gestures wrapped in elegance and warmth.",
+        description: "More than romance gestures, wrapped for every love story with elegance and warmth.",
         emoji: "❤️",
         image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=600",
     },
